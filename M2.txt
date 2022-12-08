@@ -1,0 +1,22 @@
+21 21
+#####################
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxx#########xxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxx#########xxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxxxxxxxx#
+#xxxxxxxxxxxxx#######
+#xxxxxxxxxxxxx#SSSSSS
+#xxxxxxxxxxxxx#SSSSSS
+###############SSSSSS
